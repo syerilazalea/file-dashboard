@@ -1,0 +1,11 @@
+{
+    "sidebarItems": [
+      { "name": "Home", "href": "/", "icon": "House" },
+      { "name": "Users", "href": "/users", "icon": "Users" },
+      { "name": "Locations", "href": "/locations", "icon": "Locate" },
+      { "name": "Routes", "href": "/routes", "icon": "Route" },
+      { "name": "Settings", "href": "/settings", "icon": "Settings" }
+    ]
+  }
+  
+  
